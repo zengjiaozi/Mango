@@ -1,0 +1,1 @@
+include ':app', ':mango_annotations', ':mango_compiler', ':mango_core', ':mango_ec', ':mango_ui'
